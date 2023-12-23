@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikash080
-- 👀 I’m interested in Android and MERN stack 
-- 🌱 I’m currently learning Machine Learning and Artificial  Intelligence
-- 💞️ I’m looking to collaborate on Projects
+- 👀 I’m interested in MERN stack and Machine Learning.
+- 🌱 I’m currently learning Machine Learning and Artificial  Intelligence.
+- 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me vikash08011999@gmail.com
 
 <!---
